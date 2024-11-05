@@ -1,6 +1,6 @@
 # Dynamic Inventory Analysis
 
-![Dynamic Inventory Dashboard](images/dynamic_inventory_dashboard.png)
+![Dynamic Inventory Dashboard](https://github.com/YashRaj1240/Dynamic-Inventory-Analysis/blob/021e05c3ab75d5bb8bbee228984b3ca83c20a95a/Dynamic%20Inventory%20Analysis.png)
 
 ## Overview
 
