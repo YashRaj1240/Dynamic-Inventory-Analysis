@@ -42,7 +42,7 @@ The Power BI dashboard includes a variety of visualizations for effective invent
 
 The complete Dynamic Inventory Analysis report, with all visualizations, is available for download:
 
-[Download the Dynamic Inventory Analysis PDF Report](docs/Dynamic_Inventory_Analysis.pdf)
+[Download the Dynamic Inventory Analysis PDF Report](https://github.com/YashRaj1240/Dynamic-Inventory-Analysis/blob/6ed507a1bb2d74a0586f025e11f0ae8d78d26712/Dynamic%20Inventory%20Analysis.pdf)
 
 ## Conclusion
 
